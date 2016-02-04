@@ -1,4 +1,8 @@
-A unique id write by Yar-C ( A light, concurrent RPC framework ) ( https://github.com/laruence/yar-c ).
+# yar-server-uuid
+
+A Unique ID write by Yar-C ( A light, concurrent RPC framework ) ( https://github.com/laruence/yar-c ).
+
+Can create Unique ID by snowflake algorithm.
 
 It support deploy to multi servers and make ID truly unique by 2 params ( DATA_CENTER & MACHINE ).
 
